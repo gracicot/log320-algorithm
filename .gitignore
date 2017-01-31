@@ -1,0 +1,9 @@
+.*
+!.gitignore
+build/
+*.db
+*.kdev4
+include
+build-*
+*.exe
+CMakeSettings.json
