@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.6)
-project(lab2)
+project(peg)
 
-add_executable(lab2 main.cpp)
+add_executable(peg peg.cpp)
 
-target_include_directories(lab2 PUBLIC include/)
+target_include_directories(peg PUBLIC include/)
